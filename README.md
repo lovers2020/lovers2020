@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="left">
   <h2>✅ My Work Experience ✅</h2>
-  <img height=70 src="https://img.shields.io/badge/2014.02.14 ~ 2023.05.15-fff?style=social&logo=samsung&logoColor=1428A0"/>
+  <img height=70 src="https://img.shields.io/badge/2015.03.02 ~ -fff?style=social&logo=samsung&logoColor=1428A0"/>
   <br>
   <span>삼성전자 가전사업부 S/W품질그룹,제품QA그룹, S/W and H/W QA</span>
 </div>
