@@ -12,6 +12,11 @@ You can click the Preview link to take a look at your changes.
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=lovers2020&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="lovers2020 github stats" />
 </a> 
 <a href="https://github.com/lovers2020"><img align="center" style="width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovers2020&layout=compact&theme=dark&hide_border=true" /></a> 
+<div align="center">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lovers2020&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovers2020&layout=compact&theme=tokyonight)
+</div>
 
 
 <div align="left">
