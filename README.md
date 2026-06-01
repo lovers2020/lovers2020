@@ -9,7 +9,7 @@ lovers2020/lovers2020 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lovers2020&show_icons=true&theme=tokyonight)
+  ![Anurag's github stats](https://github-stats-three-lilac.vercel.app/api?username=lovers2020&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovers2020&layout=compact&theme=tokyonight)
 </div>
 
