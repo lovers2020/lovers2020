@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
 
-![Anurag's github stats]([https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=lovers2020&show_icons=true&theme=tokyonight)
+![Anurag's github stats]([https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=lovers2020)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovers2020&layout=compact&theme=tokyonight)
 </div>
 
