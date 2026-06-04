@@ -9,7 +9,7 @@ lovers2020/lovers2020 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  <img src="./github-metrics.svg" width="100%">
+  <img src="./github-metrics.svg" width=400>
 </p>
 
 
