@@ -8,7 +8,7 @@
 lovers2020/lovers2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center">
+<p align="left">
   <img src="./github-metrics.svg" width=400>
 </p>
 
